@@ -1,10 +1,11 @@
-# Active Windows free, No virus!!!
+# Kích hoạt Windows, sạch, không virus!!!
  
 Windows | cmd, file active | Video | Notes
 -- | -- | -- | --
 Windows 7|https://bit.ly/3rlEJ7o Password: congdongbatdongsan|https://www.youtube.com/watch?v=kROnb_TDYGA| [Key kích hoạt](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZNu-FWh1ktMuDX1Q3Lxl7gBlAk9Ew41Uz9hgbJTKONH0g?e=8r8jxd)|
 Windows 8 | https://bit.ly/3vljAf0 | https://www.youtube.com/watch?v=ptMDZ3f0Ilg| [Key kích hoạt](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQ2KtidTrTFDj0cM-F2xjIQBTXkFUWK7EmrV7g1k12m3aA?e=53kekT) |
 Windows 10| https://bit.ly/3vg1F9b OR https://bit.ly/3vcO4zy OR https://bit.ly/3vljAf0| https://youtu.be/Deosrqp1Ojg OR https://www.youtube.com/watch?v=ptMDZ3f0Ilg| [Key kích hoạt](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EXlDc9qUX1xIuZlPgGtuKi4BQBWK_HrC2zbu5vqppDphgg?e=hmtL3P)|
+Windows 11||| [Key kích hoạt](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EW084p7rK_xMh7l46J6YFh8BYx0pqOidnlPWbdAMuQyuTQ?e=7zM3Qs)
 
 Goodluck for you!!!
 
