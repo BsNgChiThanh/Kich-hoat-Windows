@@ -1,3 +1,6 @@
+# Active-Windows-cmd
+Kích hoạt Windows 7, 8, 10, 11
+
 # Kích hoạt Windows, sạch, không virus!!!
  
 Windows | cmd, file active | Video | Notes
