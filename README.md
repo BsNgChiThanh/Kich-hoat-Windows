@@ -5,7 +5,7 @@ Kích hoạt Windows 7, 8/8.1, 10, 11
 
 # Windows 11 #
 
-Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin11.cmd** sau đó chạy file này dưới quyên **Run Administrator**
+Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin11.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
 @echo off
@@ -57,7 +57,7 @@ pause >nul
 
 # Windows 10 #
 
-Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin10.cmd** sau đó chạy file này dưới quyên **Run Administrator**
+Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin10.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
 @echo off
@@ -118,7 +118,7 @@ shutdown.exe /r /t 00
 
 # Windows 8/8.1 #
 
-Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin8_81.cmd** sau đó chạy file này dưới quyên **Run Administrator**
+Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin8_81.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
 @echo off
@@ -141,7 +141,7 @@ pause
 
 # Windows 7 #
 
-Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin7.cmd** sau đó chạy file này dưới quyên **Run Administrator**
+Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin7.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
 @echo off
@@ -163,7 +163,7 @@ pause >nul
 
 # Kích hoạt AIO #
 
-Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatAIO.cmd** sau đó chạy file này dưới quyên **Run Administrator**
+Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatAIO.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
 @echo off
