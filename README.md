@@ -1861,7 +1861,7 @@ exit /b
 
 **Ngoài ra còn phần mềm kích hoạt windows như sau:**
 
-Windows 7: [bấm vào đây](https://bit.ly/3rlEJ7o) Password: congdongbatdongsan, phải tắt phần mềm diệt virus và Widows difender
+Windows 7: [bấm vào đây](https://bit.ly/3rlEJ7o) Password: congdongbatdongsan, phải tắt phần mềm diệt virus và Windows Defender
 
 Windows 7, 8/8.1, 10: [bấm vào đây](https://bit.ly/3vljAf0)
 
