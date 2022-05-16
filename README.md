@@ -1,5 +1,5 @@
-# Active-Windows-cmd
-Kích hoạt Windows 7, 8, 10, 11
+# Active-Windows
+Kích hoạt Windows 7, 8/8.1, 10, 11
 
 # Kích hoạt Windows, sạch, không virus!!!
 
