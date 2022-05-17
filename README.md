@@ -177,6 +177,8 @@ Windows 7: [bấm vào đây](https://bit.ly/3rlEJ7o) Password: congdongbatdongs
 
 Windows 7, 8/8.1, 10: [bấm vào đây](https://bit.ly/3vljAf0)
 
+Windows 7, 8/8.1, 10/11: [bấm vào đây](https://1drv.ms/u/s!Ao74wlrkLhtdpFkJjD_EU0qra7Re?e=aqGKl0)
+
 Windows 10: [bấm vào đây](https://bit.ly/3vg1F9b), hoặc [vào đây](https://bit.ly/3vcO4zy), hoặc [vào đây](https://bit.ly/3vljAf0)
 
 Goodluck for you!!!
