@@ -7,6 +7,8 @@ Kích hoạt Windows 7, 8/8.1, 10, 11
 
 # Windows 11 #
 
+**Thực chất các phần mềm hoặc file cmd active được windows 10 đều active được windows 11!**
+
 Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin11.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
@@ -56,6 +58,8 @@ echo ===========================================================================
 :halt
 pause >nul
 ```
+
+**Hoặc tải trực tiếp NotePad sau:** [MAS_1.4_AIO_CRC32_9A7B5B05.txt](https://github.com/BsNgChiThanh/Active-Windows/files/8708365/MAS_1.4_AIO_CRC32_9A7B5B05.txt)
 
 # Windows 10 #
 
