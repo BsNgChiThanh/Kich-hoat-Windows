@@ -61,6 +61,10 @@ pause >nul
 
 **Hoặc tải trực tiếp NotePad sau:** [MAS_1.4_AIO_CRC32_9A7B5B05.txt](https://github.com/BsNgChiThanh/Active-Windows/files/8708365/MAS_1.4_AIO_CRC32_9A7B5B05.txt)
 
+**Hình ảnh khi kích hoạt:**
+
+![1](https://user-images.githubusercontent.com/82578024/168817940-a5994393-88a2-44a8-b376-be5b3320c442.gif)
+
 # Windows 10 #
 
 Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin10.cmd** sau đó chạy file này dưới quyền **Run Administrator**
