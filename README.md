@@ -63,7 +63,7 @@ pause >nul
 
 **Hình ảnh khi kích hoạt:**
 
-![1](https://user-images.githubusercontent.com/82578024/168817940-a5994393-88a2-44a8-b376-be5b3320c442.gif)
+![1](https://user-images.githubusercontent.com/82578024/168912783-8021b487-7b6b-4d15-ab56-93dc4ae90980.gif)
 
 # Windows 10 #
 
