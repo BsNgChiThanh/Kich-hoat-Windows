@@ -191,7 +191,7 @@ Windows 10: [bấm vào đây](https://bit.ly/3vg1F9b), hoặc [vào đây](http
 
 [Windows 7](https://www.google.com/amp/s/thuthuat.taimienphi.vn/tat-update-tren-windows-7-nhanh-nhat-3872n.aspx%3fampok=1)
 
-## Khắc phục một số lỗi **
+## Khắc phục một số lỗi ##
 
 [xoay màn hình](https://thanhbinhpc.com/huong-dan-khac-phuc-loi-xoay-man-hinh-may-tinh-thanh-cong-100.html)
 
