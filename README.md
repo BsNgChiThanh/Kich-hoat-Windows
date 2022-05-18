@@ -181,6 +181,22 @@ Windows 7, 8/8.1, 10/11: [bấm vào đây](https://1drv.ms/u/s!Ao74wlrkLhtdpFkJ
 
 Windows 10: [bấm vào đây](https://bit.ly/3vg1F9b), hoặc [vào đây](https://bit.ly/3vcO4zy), hoặc [vào đây](https://bit.ly/3vljAf0)
 
+## Tắt update cho windows ##
+
+[Windows 11](https://www.google.com/amp/s/quantrimang.com/cach-tat-windows-update-tren-windows-11-185478%3fmode=amp)
+
+[Windows 10](https://hoanghapc.vn/tat-update-win-10)
+
+[Windows 8/8.1](https://www.google.com/amp/s/thuthuat.taimienphi.vn/tat-window-update-tren-win-8-3873n.aspx%3fampok=1)
+
+[Windows 7](https://www.google.com/amp/s/thuthuat.taimienphi.vn/tat-update-tren-windows-7-nhanh-nhat-3872n.aspx%3fampok=1)
+
+## Khắc phục một số lỗi **
+
+[xoay màn hình](https://thanhbinhpc.com/huong-dan-khac-phuc-loi-xoay-man-hinh-may-tinh-thanh-cong-100.html)
+
+[Lỗi bàn phiếm](https://www.google.com/amp/s/thuthuat.taimienphi.vn/go-ban-phim-bi-loan-chu-646n.aspx?ampok=1)
+
 Goodluck for you!!!
 
 [Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)
