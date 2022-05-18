@@ -149,11 +149,15 @@ pause >nul
 
 Windows 7: [bấm vào đây](https://bit.ly/3rlEJ7o) Password: congdongbatdongsan, phải tắt phần mềm diệt virus và Windows Defender
 
+Windows 10: [bấm vào đây](https://bit.ly/3vg1F9b), hoặc [vào đây](https://bit.ly/3vcO4zy), hoặc [vào đây](https://bit.ly/3vljAf0)
+
 Windows 7, 8/8.1, 10: [bấm vào đây](https://bit.ly/3vljAf0)
 
 Windows 7, 8/8.1, 10/11: [bấm vào đây](https://1drv.ms/u/s!Ao74wlrkLhtdpFkJjD_EU0qra7Re?e=aqGKl0), download về giải nén, vô mục all version mà kích hoạt!
 
-Windows 10: [bấm vào đây](https://bit.ly/3vg1F9b), hoặc [vào đây](https://bit.ly/3vcO4zy), hoặc [vào đây](https://bit.ly/3vljAf0)
+Windows 7, 8/8.1, 10/11: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Active-Windows/files/8716333/Online.KMS.Activation.Script.v6.0.txt), download về **Save As** với tên **Online KMS Activation Script v6.0.cmd** rồi **Run Administrator**
+
+![1](https://user-images.githubusercontent.com/82578024/169043478-649b4239-9513-4327-9156-b926787dcb33.gif)
 
 ## Tắt update cho windows ##
 
