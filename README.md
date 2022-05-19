@@ -67,6 +67,8 @@ pause >nul
 
 # Windows 10 #
 
+**[Video tham khảo](https://www.youtube.com/watch?v=tWhtjerHKAE)**
+
 Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin10.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
