@@ -3,6 +3,26 @@ Kích hoạt Windows 7, 8/8.1, 10, 11
 
 **[Trang nguồn download source windows](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=0&single=true)**, **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)**
 
+**[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
+
+## MỘT SỐ ĐỊA CHỈ KMS ##
+
+kms7.msguides.com
+
+~~kms8.msguides.com~~
+
+~~kms9.msguides.com~~
+
+s8.uk.to
+
+s9.uk.to
+
+~~kms.lotro.cc~~
+
+kms.03k.org
+
+~~skms kms.digiboy.ir~~
+
 # Kích hoạt Windows, sạch, không virus!!!
 
 # Windows 11 #
