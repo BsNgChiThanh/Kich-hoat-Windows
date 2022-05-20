@@ -104,6 +104,8 @@ pause >nul
 
 # Windows 7 #
 
+**[Xem video](https://youtu.be/Vt4o5XCoWAs)**
+
 Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin7.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
