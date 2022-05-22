@@ -142,6 +142,18 @@ Windows 7, 8/8.1, 10/11: [Online KMS Activation Script v6.0.txt](https://github.
 
 ![1](https://user-images.githubusercontent.com/82578024/169043478-649b4239-9513-4327-9156-b926787dcb33.gif)
 
+## Lệnh xóa key Windows ##
+
+Vô **NotePad** dán đoạn mã sau và bấm **Save As** với tên **XoaKey.cmd**
+
+```php
+slmgr /upk
+slmgr /cpky
+slmgr /rearm
+```
+
+Run file **XoaKey.cmd** dưới quyền **Run Administrator**
+
 ## Tắt update cho windows ##
 
 [Windows 11](https://www.google.com/amp/s/quantrimang.com/cach-tat-windows-update-tren-windows-11-185478%3fmode=amp)
