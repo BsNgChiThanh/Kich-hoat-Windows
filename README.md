@@ -130,6 +130,8 @@ pause >nul
 
 **Hoặc download đoạn mã từ file này: [MAS_1.5_AIO_CRC32_21D20776.txt](https://github.com/BsNgChiThanh/Active-Windows/files/8714396/MAS_1.5_AIO_CRC32_21D20776.txt)**
 
+**[Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+
 **Ngoài ra còn phần mềm kích hoạt windows như sau:**
 
 Windows 7: [bấm vào đây](https://bit.ly/3rlEJ7o) Password: congdongbatdongsan, phải tắt phần mềm diệt virus và Windows Defender
