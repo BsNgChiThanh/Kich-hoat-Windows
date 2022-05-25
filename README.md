@@ -29,6 +29,20 @@ kms.03k.org
 
 **[KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 
+### Lệnh active bằng key KMS ###
+
+Chạy cmd bằng quyền Run Administrator, dán lệnh:
+
+```php
+slmgr.vbs -ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX 
+slmgr.vbs -skms kms7.msguides.com
+slmgr.vbs -ato
+```
+
+XXXXX-XXXXX-XXXXX-XXXXX-XXXXX là key KMS windows tương ứng.
+
+kms7.msguides.com là địa chỉ máy chủ kms, có thể thay đổi bằng một địa chỉ máy chủ khác.
+
 # Kích hoạt Windows, sạch, không virus!!!
 
 # Windows 11 #
