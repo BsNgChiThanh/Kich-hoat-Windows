@@ -5,6 +5,8 @@ Kích hoạt Windows 7, 8/8.1, 10, 11
 
 **[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
 
+**[Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys)**
+
 ## MỘT SỐ ĐỊA CHỈ KMS ##
 
 kms7.msguides.com
