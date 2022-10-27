@@ -114,6 +114,8 @@ pause >nul
 
 **Hoặc download đoạn mã từ file này: [MAS_1.5_AIO_CRC32_21D20776.txt](https://github.com/BsNgChiThanh/Active-Windows/files/8714396/MAS_1.5_AIO_CRC32_21D20776.txt)**
 
+**[Hoặc kích hoạt từ nguồn khác](https://docs.google.com/document/d/13HZElEJtq2atBcVbF3LyZGh--W1lM5uNaIMoQZcoreU/edit)**
+
 # Windows 8/8.1 #
 
 Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin8_81.cmd** sau đó chạy file này dưới quyền **Run Administrator**
@@ -222,7 +224,9 @@ slmgr /rearm
 
 Run file **XoaKey.cmd** dưới quyền **Run Administrator**
 
-## Sao luu Windows và Office ##
+## Sao luu Windows và Office [bấm vào đây](https://docs.google.com/document/d/1u_u4fCN-nwBV3uAVYCt55HUyUp-YhFFkQTph77OB6z8/edit)##
+
+**Hoặc:**
 
 Copy đoạn mã sau vào **NotePad**, rồi Save As với tên **SaoluuWindowsvaOffice.cmd** Run file này dưới quyền **Run Administrator** và làm theo hướng dẫn.
 
