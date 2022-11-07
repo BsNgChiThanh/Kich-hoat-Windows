@@ -49,6 +49,14 @@ kms7.msguides.com là địa chỉ máy chủ kms, có thể thay đổi bằng 
 
 **Thực chất các phần mềm hoặc file cmd active được windows 10 đều active được windows 11!**
 
+## Dùng Activate AIO Tools v3.1.3 ##
+
+- Chọn phần kích hoạt Windows 10.
+- Kích hoạt xong thì chọn vào gia hạn kích hoạt. 
+![image](https://user-images.githubusercontent.com/82578024/200225091-16e41cd8-31b1-4375-b1d4-2731057ef46c.png)
+
+## Dùng cmd ##
+
 Mở NotePad lên và copy đoạn mã bên dưới, bấm **Save As** đặt tên là **kichhoatwin11.cmd** sau đó chạy file này dưới quyền **Run Administrator**
 
 ```php
