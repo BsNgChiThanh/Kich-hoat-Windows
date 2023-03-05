@@ -65,7 +65,7 @@ pause >nul
 ## KÍCH HOẠT BẰNG TOOLS ##
 
 - [Active AIO Tools V3.1.3](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)
-- [Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)** file [KMS]( https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErBkofQz8FZLkC0q8Ywiaz4BmCYcC1Y2-1SbqNVshjfmyA?e=3u81dK)
+- [Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO) file [KMS Update]( https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErBkofQz8FZLkC0q8Ywiaz4BmCYcC1Y2-1SbqNVshjfmyA?e=3u81dK)
 - [MAS UPDATE](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EheHriQtZjtIkSbJQ8QrqDEBtgd1f98p5bMeSNNXSlkCNw?e=pxjf5Y)
 
 ## KÍCH HOẠT BẰNG CMD ##
