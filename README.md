@@ -1,5 +1,6 @@
 # Active Windows7 #
 
+![image](https://user-images.githubusercontent.com/82578024/230251927-7d937dc3-fa41-46a3-9729-9a65448810d9.png)
 
 ## KÍCH HOẠT BẰNG TOOLS ##
 
@@ -62,6 +63,8 @@ pause >nul
 
 # Windows8-8.1 #
 
+![image](https://user-images.githubusercontent.com/82578024/230252019-e78235ff-fdb4-412a-9036-072a71d2523a.png)
+
 ## KÍCH HOẠT BẰNG TOOLS ##
 
 - [Active AIO Tools V3.1.3](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)
@@ -95,6 +98,8 @@ pause >nul
 ```
 
 # Windows10 #
+
+![image](https://user-images.githubusercontent.com/82578024/230252158-b61e4501-417b-46db-8e18-9f84f407fcc6.png)
 
 ## KÍCH HOẠT BẰNG TOOLS ##
 
@@ -179,6 +184,8 @@ Dán vào NotePad và Save As với tên HanWindows.cmd rồi Run nó dưới qu
 ![image](https://user-images.githubusercontent.com/103977676/202645570-5d4c5903-a58a-41fe-80d2-e9811c470c68.png)
 
 # Windows11 #
+
+![image](https://user-images.githubusercontent.com/82578024/230252357-be7216c6-df61-419b-8a09-41f73c4d332f.png)
 
 **Tất cả các Tools kích hoạt Windows 10 đều kích hoạt được Windows 11**
 
