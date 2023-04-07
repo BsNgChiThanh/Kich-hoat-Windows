@@ -72,6 +72,8 @@ pause >nul
 
 ![image](https://user-images.githubusercontent.com/82578024/230252158-b61e4501-417b-46db-8e18-9f84f407fcc6.png)
 
+[Trang chủ kích hoạt](https://msguides.com/windows-10)
+
 ## KÍCH HOẠT BẰNG TOOLS ##
 
 - [Active AIO Tools V3.1.3](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)
@@ -138,6 +140,8 @@ pause >nul
 
 ![image](https://user-images.githubusercontent.com/82578024/230252019-e78235ff-fdb4-412a-9036-072a71d2523a.png)
 
+[Trang chủ kích hoạt](https://msguides.com/windows-8-1)
+
 ## KÍCH HOẠT BẰNG TOOLS ##
 
 - [Active AIO Tools V3.1.3](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)
@@ -173,6 +177,8 @@ pause >nul
 # Active Windows7 #
 
 ![image](https://user-images.githubusercontent.com/82578024/230251927-7d937dc3-fa41-46a3-9729-9a65448810d9.png)
+
+[Trang chủ kích hoạt](https://msguides.com/windows-7)
 
 ## KÍCH HOẠT BẰNG TOOLS ##
 
