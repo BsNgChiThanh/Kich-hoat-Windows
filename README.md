@@ -1,3 +1,7 @@
+Tác giả: Nguyễn Chí Thành
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231744623-75153615-ce39-4498-a314-978f2605dc6a.jpg)
+
 # Windows11 #
 
 ![image](https://user-images.githubusercontent.com/82578024/230252357-be7216c6-df61-419b-8a09-41f73c4d332f.png)
