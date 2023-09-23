@@ -12,10 +12,10 @@ Tác giả: Nguyễn Chí Thành
 
 ## KÍCH HOẠT BẰNG TOOLS ##
 
-- [Active AIO Tools V3.1.3](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)
+- [Active AIO Tools V3.1.3](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG) hoặc [bấm vào đây để download](https://terabox.com/s/1vjowCyjHh8m90Dr7v9IWsQ)
 - [Windows loader](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQHo1e7zEKRIvWuBR0leGrUBI5TgEpw9JAUl639-ghRjrw?e=AS7sDZ) pass giải nén: congdongbatdongsan
-- [Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO) file [KMS Update]( https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErBkofQz8FZLkC0q8Ywiaz4BmCYcC1Y2-1SbqNVshjfmyA?e=3u81dK)
-- [Update W10 Digital License Activation Script](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhrqZ8oy0R9AuqU4Se-8xfEBjfIaVFBZAplCibUrODNcGg?e=sivQij)
+- [Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO) file [KMS Update]( https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErBkofQz8FZLkC0q8Ywiaz4BmCYcC1Y2-1SbqNVshjfmyA?e=3u81dK) 
+- Update W10 Digital License Activation Script [download tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhrqZ8oy0R9AuqU4Se-8xfEBjfIaVFBZAplCibUrODNcGg?e=sivQij) hoặc [bấm vào đây để download](https://terabox.com/s/1U3bYI7hKb5cR8-ON7ptKCw)
 
 ## KÍCH HOẠT BẰNG CMD ##
 
@@ -84,6 +84,7 @@ pause >nul
 - [Windows loader](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQHo1e7zEKRIvWuBR0leGrUBI5TgEpw9JAUl639-ghRjrw?e=AS7sDZ) pass giải nén: congdongbatdongsan
 - [Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO) file [KMS Update]( https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErBkofQz8FZLkC0q8Ywiaz4BmCYcC1Y2-1SbqNVshjfmyA?e=3u81dK)
 - [Update W10 Digital License Activation Script](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhrqZ8oy0R9AuqU4Se-8xfEBjfIaVFBZAplCibUrODNcGg?e=sivQij)
+- MAS 1.7 [bấm vào đây để download](https://terabox.com/s/1C49KMhHPs7PRkyZ7vTRdiA), MAS 1.6 [download tại đây](https://terabox.com/s/1uXQr9kupqa_XKag3mXrB3Q), MAS 1.5 [bấm vào đây để dowmload](https://terabox.com/s/1PpvSioQMOuaLEbXArKZaUw)
 
 ## KÍCH HOẠT BẰNG CMD ##
 
