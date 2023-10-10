@@ -33,7 +33,7 @@ Tác giả: Nguyễn Chí Thành
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
-- [Windows loader](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQHo1e7zEKRIvWuBR0leGrUBI5TgEpw9JAUl639-ghRjrw?e=AS7sDZ) pass giải nén: congdongbatdongsan
+- [Windows loader](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQHo1e7zEKRIvWuBR0leGrUBI5TgEpw9JAUl639-ghRjrw?e=AS7sDZ) pass giải nén: congdongbatdongsan. Link [dự phòng](https://1drv.ms/u/s!AmvuvqBBIcK6hz1yukETWHUUsXea?e=4d2kTv)
 
 ## XEM HẠN WINDOWS ##
 - Copy đoạn code sau:
