@@ -2,7 +2,7 @@ Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231744623-75153615-ce39-4498-a314-978f2605dc6a.jpg)
 # TRANG CHỦ KÍCH HOẠT CMD #
-- [Windows 11](https://msguides.com/windows-11)
+- [Windows 11](https://msguides.com/windows-11) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hz7KYN9F6PxyeN6Y?e=96lXuI)
 - [Windows 10](https://msguides.com/windows-10) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzGJBnNDmBtIDYHQ?e=woVQWW)
 - [Windows 8 và 8.1](https://msguides.com/windows-8-1) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzJ3qH2oadQIimLU?e=tTFtfH)
 - [Windows 7](https://msguides.com/windows-7) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzC-hajlOGqTlU1n?e=S1H0t8)
