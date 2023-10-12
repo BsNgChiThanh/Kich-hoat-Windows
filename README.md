@@ -55,3 +55,8 @@ slmgr/xpr
 - ![image](https://user-images.githubusercontent.com/103977676/202644709-e8f016c9-b755-4723-ac94-fffb44b72927.png)
 - Hoặc gia hạn kích hoạt bằng **Online KMS Activation Script v6.0**
 - ![image](https://user-images.githubusercontent.com/103977676/202645570-5d4c5903-a58a-41fe-80d2-e9811c470c68.png)
+
+## [TOOL WINDOWS UPDATE](https://1drv.ms/f/s!AmvuvqBBIcK6h1BGnyJy3qzmrgHH?e=rrHpWO) ##
+- [Link download](https://1drv.ms/f/s!AmvuvqBBIcK6h1BGnyJy3qzmrgHH?e=rrHpWO)
+- [Hoặc link](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuwdtWtEejJBlh-6UzR6wlcBvvNn5BgrQVfhDFKvGgoQjg?e=anGm5X)
+- [Link dự phòng](https://terabox.com/s/1X23B2MPB0GMZtW8YYJOhnw)
