@@ -10,6 +10,7 @@ Tác giả: Nguyễn Chí Thành
 
 # Windows11 #
 - **Tất cả các Tools kích hoạt Windows 10 đều kích hoạt được Windows 11**
+- Source Windows 11: https://massgrave.dev/windows_11_links.html
 ## Tool kích hoạt ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools 
