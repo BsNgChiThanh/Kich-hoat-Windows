@@ -11,35 +11,35 @@ Tác giả: Nguyễn Chí Thành
 # Windows11 #
 - **Tất cả các Tools kích hoạt Windows 10 đều kích hoạt được Windows 11**
 ## Tool kích hoạt ##
-- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
-- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools 
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
 
 # Windows10 #
 ## Tool kích hoạt ##
-- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
-- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/ 
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
 - Dùng W 10 DigitalLicenseActivationScrip: https://github.com/BsNgChiThanh/W10DigitalLicenseActivationScrip
 
 # Windows8-8.1 #
 ## Tool kích hoạt ##
-- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
-- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/ 
 
 # Active Windows7 #
 ## Tool kích hoạt ##
-- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
-- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools 
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
 - [Windows loader](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQHo1e7zEKRIvWuBR0leGrUBI5TgEpw9JAUl639-ghRjrw?e=AS7sDZ) pass giải nén: congdongbatdongsan. Link [dự phòng](https://1drv.ms/u/s!AmvuvqBBIcK6hz1yukETWHUUsXea?e=4d2kTv)
 
 # AUTO RENEW WINDOWS: #
 - [Trang chủ nói về Renew](https://msguides.com/renew-kms-license-manually)
-- Dùng Activate AIO Tools để tạo tác vụ renew: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Dùng Activate AIO Tools để tạo tác vụ renew: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/a1e7b638-aa8e-42c9-a9de-e483e1ecfd13)
-- Dùng KMS VL ALL AIO để tạo tác vụ renew: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+- Dùng KMS VL ALL AIO để tạo tác vụ renew: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/24f473ce-c135-4878-92e4-90f18d0f0f9f)
 
 ## XEM HẠN WINDOWS ##
