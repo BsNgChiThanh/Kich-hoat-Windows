@@ -17,6 +17,7 @@ Tác giả: Nguyễn Chí Thành
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
 
 # Windows10 #
+- Source Windows 10: https://massgrave.dev/windows_10_links.html
 ## Tool kích hoạt ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/ 
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
@@ -24,12 +25,14 @@ Tác giả: Nguyễn Chí Thành
 - Dùng W 10 DigitalLicenseActivationScrip: https://github.com/BsNgChiThanh/W10DigitalLicenseActivationScrip
 
 # Windows8-8.1 #
+- Source Windows 8.1: https://massgrave.dev/windows_8.1_links.html
 ## Tool kích hoạt ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/ 
 
 # Active Windows7 #
+- Source Windows 7: https://massgrave.dev/windows_7_links.html
 ## Tool kích hoạt ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools 
